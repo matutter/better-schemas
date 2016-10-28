@@ -1,0 +1,26 @@
+{
+  "name": "schema-js",
+  "version": "1.0.0",
+  "description": "A simple js object schema definition library.",
+  "main": "schema.js",
+  "scripts": {
+    "test": "mocha test/test.js",
+    "test-w-coverage": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha -- -R spec ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matutter/schema-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matutter/schema-js/issues"
+  },
+  "homepage": "https://github.com/matutter/schema-js#readme",
+  "author": "matutter",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.14",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2"
+  }
+}
