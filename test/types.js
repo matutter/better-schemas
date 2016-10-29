@@ -1,4 +1,5 @@
 Types = global.Schema.types
+Schema = global.Schema
 
 var checks = [{
     type: Types.int,
@@ -40,5 +41,12 @@ describe('Types', () => {
         })
       })
     })
+  })
+})
+
+describe('create a new instance', () => {
+  it('should create a new Type with a validate function', () => {
+    var type = new Schema.Type('my-type', n => n==1 )
+    assert(type.validate(1))
   })
 })
