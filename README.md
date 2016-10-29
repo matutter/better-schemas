@@ -9,7 +9,7 @@ A simple schema validation implementation for NodeJs.
 const Schema = require('schema-js')
 ```
 
-## Create a schema to for well-defined validation
+## Create a schema for well-defined structures
 ```javascript
 const postSchema = new Schema('user.post', {
   name : { type: String, required: true }, // throws when not set
