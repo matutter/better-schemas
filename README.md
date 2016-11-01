@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/matutter/schema-js.svg?branch=master)](https://travis-ci.org/matutter/schema-js)
 [![Coverage Status](https://coveralls.io/repos/github/matutter/schema-js/badge.svg?branch=master)](https://coveralls.io/github/matutter/schema-js?branch=master)
 
-# schema-js
+# better-schemas
 A simple schema validation implementation for NodeJs. 
 
 ## Usage
