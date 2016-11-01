@@ -1,6 +1,6 @@
 {
-  "name": "schema-js",
-  "version": "1.0.0",
+  "name": "better-schemas",
+  "version": "1.0.1",
   "description": "A simple js object schema definition library.",
   "main": "schema.js",
   "scripts": {
