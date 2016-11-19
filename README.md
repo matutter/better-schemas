@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/matutter/schema-js.svg?branch=master)](https://travis-ci.org/matutter/schema-js)
+[![Build Status](https://travis-ci.org/matutter/better-schemas.svg?branch=master)](https://travis-ci.org/matutter/better-schemas)
 [![Coverage Status](https://coveralls.io/repos/github/matutter/schema-js/badge.svg?branch=master)](https://coveralls.io/github/matutter/schema-js?branch=master)
 
 # better-schemas
