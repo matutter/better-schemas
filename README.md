@@ -1,5 +1,6 @@
+[![NPM](https://nodei.co/npm/better-schemas.png)](https://nodei.co/npm/better-schemas/)
 [![Build Status](https://travis-ci.org/matutter/better-schemas.svg?branch=master)](https://travis-ci.org/matutter/better-schemas)
-[![Coverage Status](https://coveralls.io/repos/github/matutter/schema-js/badge.svg?branch=master)](https://coveralls.io/github/matutter/schema-js?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/matutter/better-schemas/badge.svg?branch=master)](https://coveralls.io/github/matutter/better-schemas?branch=master)
 
 # better-schemas
 A simple schema validation implementation for NodeJs. 
