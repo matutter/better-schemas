@@ -1,4 +1,4 @@
-[![NPM](https://nodei.co/npm/better-schemas.png)](https://nodei.co/npm/better-schemas/)
+[![NPM](https://nodei.co/npm/better-schemas.png)](https://nodei.co/npm/better-schemas/)   
 [![Build Status](https://travis-ci.org/matutter/better-schemas.svg?branch=master)](https://travis-ci.org/matutter/better-schemas)
 [![Coverage Status](https://coveralls.io/repos/github/matutter/better-schemas/badge.svg?branch=master)](https://coveralls.io/github/matutter/better-schemas?branch=master)
 
